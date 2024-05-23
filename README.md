@@ -6,3 +6,7 @@ To use:
 3) Run Preview on LandingView
 4) Click through to see recipes and recipe details
 
+
+
+https://github.com/NayeemBelal/Recipe-App/assets/41023969/6852fc1b-8681-41e4-a3d8-fadd582bf499
+
